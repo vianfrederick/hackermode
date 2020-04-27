@@ -1,0 +1,401 @@
+h1{
+  text-align: center;
+  color:papayawhip;
+  font-style: italic;
+  font-weight: bolder;
+}
+h6{
+  color: magenta;
+}
+h3{
+  text-align: center;
+  color: chartreuse;
+  font-size: 2rem;
+}
+
+h2{
+  text-align: center;
+  color: antiquewhite;
+  font-family: Arvo;
+}
+.container{
+  text-align: center;
+  margin: auto;
+width: 95%;
+max-width: 370px;
+height: 370px;
+overflow: hidden;
+padding-top: 20px;
+border : 5px solid orange;
+border-radius: 15px;
+position: relative;
+background-color: aquamarine;
+}
+.container2{
+  text-align: center;
+}
+.results{
+  text-align: center;
+}
+.btn{
+outline: none;
+border: 1px solid #404B69;
+font-size: 2rem;
+font-family: 'Arvo', cursive;
+line-height: 2;
+font-weight: 900;
+color: blueviolet;
+text-shadow: 3px 0 #DBEDF3;
+border-radius: 15px;
+display: inline-block;
+width: 64.9833px;
+height: 70.5px;
+text-align: center;
+margin-top: 8px;
+margin-bottom: 8px;
+background-color: aliceblue;
+
+
+}
+.container3{
+
+}
+/*.one{
+position: absolute;
+left: -20%;
+top: -20%;
+width: 140%;
+height: 140%;
+}*/
+.results{
+  font-size: 2rem;
+}
+
+.mobile1{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.container2{
+  font-size: 2rem;
+}
+.mobile{
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.stop{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: cursive;
+  border-radius: 15px;
+  border-style: dotted;
+}
+.results2{
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: cursive;
+  border-radius: 15px;
+  border-style: dotted;
+}
+.resultscontainer{
+  font-size: 5rem;
+  text-align: center;
+  margin: auto;
+width: 95%;
+max-width: 370px;
+height: 370px;
+overflow: hidden;
+border : 5px solid orange;
+border-radius: 15px;
+color: aquamarine;
+}
+.restart{
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: auto;
+  cursor: pointer;
+  border-radius: 15px;
+  border-style: dotted;
+}
+.showresultscontainer{
+  font-size: 2.7rem;
+  text-align: center;
+  margin: auto;
+width: 95%;
+max-width: 370px;
+height: 370px;
+overflow: hidden;
+margin-bottom: 100px;
+border: 5px solid orange;
+color: aliceblue;
+border-radius: 15px;
+}
+.showresultsrestart{
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: auto;
+  cursor: pointer;
+  border-radius: 15px;
+  border-style: dotted;
+}
+.container4{
+  font-size: 3rem;
+  color: aqua;
+}
+body{
+  text-align: center;
+  background-color: black;
+}
+.tops{
+  margin-top: 30px;
+}
+
+
+.one{
+  position: absolute;
+    top: 48px;
+    left: 3%;
+    filter: brightness(61%);
+}
+
+.two{
+  position: absolute;
+top: 48px;
+left: 22%;
+  filter: brightness(62%);
+}
+
+.three{
+  position: absolute;
+  left: 79%;
+  top:269px;
+    filter: brightness(63%);
+}
+.four{
+  position: absolute;
+  top : 269px;
+  left: 60%;
+    filter: brightness(64%);
+}
+.seventeen{
+  position: absolute;
+
+  left: 60%;
+
+  top: 195.7px;
+    filter: brightness(77%);
+}
+.fourteen{
+  position: absolute;
+top: 121.383px;
+left: 3%;
+  filter: brightness(74%);
+}
+.fifteen{
+  position: absolute;
+  left: 60%;
+  top: 121.383px;
+    filter: brightness(75%);
+}
+.twenty{
+  position: absolute;
+    top: 195.7px;
+    left: 41%;
+      filter: brightness(80%);
+}
+.seven{
+  position: absolute;
+  top: 269px;
+  left: 41%;
+    filter: brightness(67%);
+}
+.thirteen{
+  position: absolute;
+top: 195.7px;
+left: 79%;
+  filter: brightness(73%);
+}
+.eleven{
+  position: absolute;
+top: 269px;
+left: 3%;
+  filter: brightness(71%);
+}
+.five{
+  position: absolute;
+    top: 48px;
+    left: 41%;
+      filter: brightness(65%);
+}
+.sixteen{
+  position: absolute;
+    left: 22%;
+    top: 195.7px;
+      filter: brightness(76%);
+}
+.ten{
+  position: absolute;
+    top: 121.383px;
+    left: 79%;
+      filter: brightness(70%);
+}
+.eight{
+  position: absolute;
+  top: 269px;
+  left: 22%;
+    filter: brightness(68%);
+}
+.eighteen{
+  position: absolute;
+  top: 121.383px;
+  left: 22%;
+    filter: brightness(78%);
+}
+.six{
+  position: absolute;
+    left: 60%;
+    top: 48px;
+      filter: brightness(66%);
+}
+.twelve{
+  position: absolute;
+top: 195.7px;
+left:3%;
+  filter: brightness(72%);
+}
+.nineteen{
+  position: absolute;
+  top: 121.383px;
+  left: 41%;
+    filter: brightness(79%);
+}
+
+.nine{
+  position: absolute;
+  top: 48px;
+  left: 79%;
+    filter: brightness(69%);
+}
+
+
+.twentyone{
+  filter: brightness(80%);
+}
+
+.twentytwo{
+  filter: brightness(81%);
+}
+
+.twentythree{
+  filter: brightness(82%);
+}
+
+.twentyfour{
+  filter: brightness(83%);
+}
+
+.twentyfive{
+  filter: brightness(84%);
+}
+
+.twentysix{
+  filter: brightness(85%);
+}
+
+.twentyseven{
+  filter: brightness(86%);
+}
+
+.twentyeight{
+  filter: brightness(87%);
+}
+
+.twentynine{
+  filter: brightness(88%);
+}
+
+.thirty{
+  filter: brightness(89%);
+}
+
+.thirtyone{
+  filter: brightness(90%);
+}
+
+.thirtytwo{
+  filter: brightness(91%);
+}
+
+.thirtythree{
+  filter: brightness(92%);
+}
+
+.thirtyfour{
+  filter: brightness(93%);
+}
+
+.thirtyfive{
+  filter: brightness(94%);
+}
+
+.thirtysix{
+  filter: brightness(95%);
+}
+
+.thirtyseven{
+  filter: brightness(96%);
+}
+
+.thirtyeight{
+  filter: brightness(97%);
+}
+
+.thirtynine{
+  filter: brightness(98%);
+}
+
+.forty{
+  filter: brightness(99%);
+}
+
+@media only screen and (min-width: 1000px){
+   body{
+     position: relative;
+     background-image: url(space.jpg);
+   }
+
+   .container2{
+     position: absolute;
+     top: 70%;
+     left:70%;
+   }
+   .results{
+     position: absolute;
+     top: 30%;
+     left: 0;
+     width: 30%;
+   }
+}

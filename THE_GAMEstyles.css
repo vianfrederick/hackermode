@@ -1,0 +1,181 @@
+h1{
+  text-align: center;
+  margin-bottom: 103.2px;
+}
+h3{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+.container{
+  text-align: center;
+  margin: auto;
+width: 95%;
+max-width: 370px;
+height: 370px;
+overflow: hidden;
+padding-top: 20px;
+border : 5px solid orange;
+position: relative;
+}
+.container2{
+  text-align: center;
+}
+.results{
+  text-align: center;
+}
+.btn{
+outline: none;
+border: 0 solid #404B69;
+font-size: 2rem;
+font-family: 'Arvo', cursive;
+line-height: 2;
+font-weight: 900;
+color: yellow;
+text-shadow: 3px 0 #DBEDF3;
+border-radius: 15px;
+display: inline-block;
+width: 64.9833px;
+height: 70.5px;
+text-align: center;
+margin-top: 8px;
+margin-bottom: 8px;
+background-color: black;
+
+
+}
+/*.one{
+position: absolute;
+left: -20%;
+top: -20%;
+width: 140%;
+height: 140%;
+}*/
+.results{
+  font-size: 2rem;
+}
+
+.mobile1{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.container2{
+  font-size: 2rem;
+}
+.mobile{
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.stop{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: cursive;
+}
+.results2{
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: cursive;
+}
+.resultscontainer{
+  font-size: 5rem;
+  text-align: center;
+  margin: auto;
+width: 95%;
+max-width: 370px;
+height: 370px;
+overflow: hidden;
+border : 5px solid orange;
+}
+.restart{
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: auto;
+  cursor: pointer;
+}
+.the-game-container{
+  font-size: 3rem;
+  text-align: center;
+  margin: auto;
+width: 95%;
+max-width: 370px;
+height: 370px;
+overflow: hidden;
+margin-bottom: 100px;
+border: 5px solid orange;
+position:relative;
+border-radius: 15px;
+}
+.showresultsrestart{
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: auto;
+  cursor: pointer;
+}
+.container4{
+  font-size: 3rem;
+}
+body{
+  text-align: center;
+  background-color: antiquewhite;
+}
+.link{
+  text-align: center;
+  text-decoration: none;
+}
+
+.easy{
+
+      position: absolute;
+      left: 32%;
+      top: 20%;
+
+}
+
+.medium{
+  position: absolute;
+  top: 45%;
+  left: 21%;
+}
+
+.hard{
+   position: absolute;
+   top: 70%;
+   left: 29%;
+}
+
+
+.the-game-container{
+
+}
+
+.suma{
+  margin-bottom: 103.2px;
+  font-size: 4rem;
+
+}
